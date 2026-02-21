@@ -3,8 +3,6 @@
 This repository contains the source files, documentation, and backups for the **Maahi Enterprises** WordPress website.
 
 **Website:** https://goldenrod-beaver-215456.hostingersite.com  
-**Business:** Maahi Enterprises – Water Purifier Sales, Installation & Service  
-**Location:** Udaipur, Rajasthan, India  
 
 ---
 
